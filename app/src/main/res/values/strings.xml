@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">proj</string>
+    <string name="username">username</string>
+    <string name="log_in">log in</string>
+    <string name="placeholder">.</string>
+    <string name="amount">Amount</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+</resources>
